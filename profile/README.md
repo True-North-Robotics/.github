@@ -1,16 +1,16 @@
-# 🧭 True North Robotics
+# 🧭 True North Mechatronics
 
 <p align="center">
-  <img src="images/logo.png" width="200" alt="Logo">
+  <img src="https://raw.githubusercontent.com/TrueNorthMech/.github/main/profile/images/logo.png" width="200" alt="True North Mechatronics Logo">
   </p>
 
 <p align="center">
-  <b>Design. Print. Navigate.</b><br>
-  Open-source robotics engineering from the Canadian North 🇨🇦
+  <b>Design. Engineer. Deploy.</b><br>
+  Open-source mechatronics engineering from the Canadian North 🇨🇦
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/@TrueNorthRobotics">📺 <b>YouTube Channel</b></a> •
+  <a href="https://www.youtube.com/@TrueNorthMech">📺 <b>YouTube Channel</b></a> •
   <a href="#-current-projects">🤖 <b>Projects</b></a> •
   <a href="#-roadmap">🗺️ <b>Roadmap</b></a>
 </p>
@@ -18,7 +18,7 @@
 ---
 
 ### 👋 About Us
-Welcome to the official repository for **True North Robotics**. We specialize in designing modular, accessible, and rugged robotic platforms using open-source tools. 
+Welcome to the official repository for **True North Mechatronics**. We specialize in designing modular, accessible, and rugged robotic platforms using open-source tools. 
 
 Our mission is to bridge the gap between hobbyist tinkering and professional engineering. All our mechanical designs are created in **FreeCAD**, our simulations in **Blender**, and our firmware in **C++/Python**.
 
@@ -26,26 +26,21 @@ Our mission is to bridge the gap between hobbyist tinkering and professional eng
 
 ### 🤖 Current Projects
 
-#### 1. [TitanBot](https://github.com/TrueNorthRobotics/TitanBot) 🚜
+#### 1. [TitanBot](https://github.com/TrueNorthMech/TitanBot) 🚜
 * **Type:** 4-Wheel Mecanum (Holonomic)
 * **Status:** 🏗️ *In Active Development (Phase 3)*
 * **Description:** A modular, Humvee-inspired autonomous platform designed for education and rapid prototyping.
-* **Key Features:** * Parametric "Frame Rail" Chassis
+* **Key Features:**
+    * Parametric "Frame Rail" Chassis
     * Integrated Vetronics Deck (Cable Management)
-    * Modular Armor Panels (Fenders/Doors)
-* **Latest Module:** *[Part 11: Armored Door Panels]*
+    * Citadel Armor Panels (Fenders/Doors)
+* **Latest Module:** *[Part 11: Citadel Door Panels]*
 
-#### 2. [SparkBot](https://github.com/TrueNorthRobotics/SparkBot) ⚡
+#### 2. [SparkBot](https://github.com/TrueNorthMech/SparkBot) ⚡
 * **Type:** Differential Drive (2WD)
 * **Status:** 🟢 *Stable (v1) / v2 In Planning*
-* **Description:** The ultimate entry-level platform for learning CAD and Arduino code. Designed for quick printing and easy assembly.
+* **Description:** The ultimate entry-level platform for learning CAD and Arduino code.
 * **v2 Goals:** Improved chassis rigidity, tool-less battery access.
-
-#### 3. **Sumo-Sim** 🤼
-* **Type:** Physics Simulation
-* **Status:** 🟡 *Concept / Tutorial Series*
-* **Tools:** Blender 4.x
-* **Description:** A virtual testing ground for tethered sumo robots to validate control logic before 3D printing.
 
 ---
 
@@ -71,5 +66,5 @@ Our mission is to bridge the gap between hobbyist tinkering and professional eng
 ---
 
 <p align="center">
-  <sub>© 2026 True North Robotics. All designs licensed under MIT/CC-BY-SA unless otherwise noted.</sub>
+  <sub>© 2026 True North Mechatronics. All designs licensed under MIT/CC-BY-SA unless otherwise noted.</sub>
 </p>
