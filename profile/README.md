@@ -1,7 +1,7 @@
 # 🧭 True North Robotics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TrueNorthRobotics/.github/main/profile/images/logo.png" width="200" alt="True North Robotics Logo">
+  <img src="https://raw.githubusercontent.com/TrueNorthRobotics/.github/profile/images/logo.png" width="200" alt="True North Robotics Logo">
   </p>
 
 <p align="center">
